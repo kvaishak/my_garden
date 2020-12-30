@@ -13,5 +13,5 @@ checking the linking
 
 [[5 Hindrance to Mastery by Shi Heng]]
 
-Haha this is actually a really great way of figuring out how to develop your 
+Haha this is actually a really great way of figuring out how to develop your own stuffs right.
 
