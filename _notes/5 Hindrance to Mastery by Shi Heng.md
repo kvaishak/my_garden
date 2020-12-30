@@ -2,9 +2,7 @@
 title: 5 Hindrances to mastery
 ---
 
-# 5 Hindrances to mastery
-
-[![Youtube Video](http://img.youtube.com/vi/4-079YIasck/0.jpg)](https://www.youtube.com/watch?v=4-079YIasck)
+From [5 hindrances to self-mastery by Shi Heng YI](https://www.youtube.com/watch?v=4-079YIasck)
 
 ## Sensual Desire
 Don't follow the temptations that might try to seduce you on your way to your goal. Once you fall to these temptations, you will become obsessed by those temptations and then your actual goal would have become nothing but a un-achievable dream.
@@ -31,11 +29,13 @@ When faced with too much doubts more often you will stop, rather than moving for
 
 
 #  What to do ?
-Let it RAIN
-**R** - Recognize what state of mind you are currently in.
-**A** - Accept the situation that you are in. Let it be in that state
-**I** - Investigate and ask questions about your current stage . Why you are in that stage ?
-**N** - Non-Identify know that you are not your body, mind or your emotions and act on what to be done to make yourself come out of that stage.
+Let it RAIN 
+<br />
+**R** - Recognize what state of mind you are currently in. <br />
+**A** - Accept the situation that you are in. Let it be in that state. <br />
+**I** - Investigate and ask questions about your current stage . Why you are in that stage ? <br />
+**N** - Non-Identify know that you are not your body, mind or your emotions and act on what to be done to make yourself come out of that stage. <br />
+
 
 
 There are two mistakes along the way to self Mastery :

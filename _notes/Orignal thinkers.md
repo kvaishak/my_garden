@@ -2,7 +2,7 @@
 title: What separates us from Originals
 ---
 
-[![Youtube Video](http://img.youtube.com/vi/fxbCHn6gE3U/0.jpg)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+ From [The surprising habits of original thinkers by Adam Grant](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 
 ## They are late to the party
 Procrastinators are found to have a much more creative process than those who precrastinates or those who wait till the end of the deadline.
