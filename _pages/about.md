@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+All the notes are my opinion about the technologies and the topics that I find intrest in. They most probably might not agree with your view or a general view point. As such they are mainly for my consumption and not been provided for public use.
 
-Feel free to tell the world about what you love! 😍
+Template by this guy, hosted using netlify.
+
+Visit my official [website](http://kvaishak.com/).
