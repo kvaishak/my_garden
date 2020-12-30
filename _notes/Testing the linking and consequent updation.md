@@ -15,3 +15,5 @@ checking the linking
 
 Haha this is actually a really great way of figuring out how to develop your own stuffs right.
 
+woow please dont automatically push the changes. i know how to push okay. idiot.
+
