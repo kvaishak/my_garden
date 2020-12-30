@@ -19,3 +19,5 @@ woow please dont automatically push the changes. i know how to push okay. idiot.
 hello is there any changes ? hello ?
 
 ![[Screenshot 2020-12-31 at 2.19.29 AM 1.png]]
+
+<img src="/assets/Screenshot 2020-12-31 at 2.19.29 AM 1.png"/>
