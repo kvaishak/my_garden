@@ -4,8 +4,7 @@ title: About
 permalink: /about
 ---
 
-All the notes are my opinion about the technologies and the topics that I find intrest in. They most probably might not agree with your view or a general view point. As such they are mainly for my consumption and not been provided for public use.
+All the notes are my opinion about the technologies and the topics that I find intrest in. They most probably might not agree with your view or a general view point. So its normal to stumble upon a note that might contain out of context topic or something that might feel confusing.
 
-Template by this guy, hosted using netlify.
 
 Visit my official [website](http://kvaishak.com/).
