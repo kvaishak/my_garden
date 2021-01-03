@@ -97,7 +97,7 @@ a {
   }
 }
 
-*:focus {
+a:focus {
   background: #ffe8bc !important;
   color: black !important;
 }
@@ -141,4 +141,18 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.search_input {
+  height: 30px;
+  border-radius: 5px;
+  min-width: 80vw;
+}
+
+.search_container {
+  margin-top: 20px;
+}
+
+.results_container{
+  margin-top: 20px;
 }

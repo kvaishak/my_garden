@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <nav>{% include nav.html %}</nav>
+    <div class="wrapper">
+
+        <main>{{ content }}</main>
+      
+        <!-- Search Elements -->
+        <div id="search-container" class="search_container">
+            <input class="search_input" type="text" id="search-input" placeholder="search...">
+            <div id="results-container" class="results_container"></div>
+        </div>
+      
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+  </body>
+
+   <!-- Script pointing to search-script.js -->
+   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    
+   <!-- Configuration -->
+   <script>
+   SimpleJekyllSearch({
+     searchInput: document.getElementById('search-input'),
+     resultsContainer: document.getElementById('results-container'),
+     json: '/search.json',
+     searchResultTemplate: '<h4><a href="{url}">{title}</a></h4><span>{date}</span>',
+   })
+   </script>
+
+</html>
+
+    
+   
