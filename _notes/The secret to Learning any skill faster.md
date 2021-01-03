@@ -7,7 +7,6 @@ title: The secret to Learning any skill faster
 - **Watch and Observe others** - Many experts in their field spend time not just by studying or practicing their skill, but by also observing the works of others - will help us in knowing about their thinking process in how they do their job.
 - **Practice the works of others** - By practicing we make ourself exposed to the works of others - thereby making us knowledgable about their vocabulary - the main goal is not to copy their work, but to expose ourself to the nuance of their work, so that we can take what we want from them and use it in our own style.
 
----
 
 During the pursuit of mastering any skill, mind plays a cruicial role.
 One must understand the hindrance posed by the mind in order to conquer it. 
