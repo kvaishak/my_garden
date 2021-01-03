@@ -40,5 +40,3 @@ Let it RAIN
 
 There are two mistakes along the way to self Mastery :
 > Not starting It and Not going all the way.
-
-[[Testing the linking and consequent updation]]
