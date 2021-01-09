@@ -27,8 +27,9 @@ This is due to the indecisiveness of your brain. The constant doubt in your brai
 
 When faced with too much doubts more often you will stop, rather than moving forward.
 
+<br />
 
-#  What to do ?
+###  What to do ?
 Let it RAIN 
 <br />
 **R** - Recognize what state of mind you are currently in. <br />
