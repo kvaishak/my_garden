@@ -11,4 +11,4 @@ title: The secret to Learning any skill faster
 During the pursuit of mastering any skill, mind plays a cruicial role.
 One must understand the hindrance posed by the mind in order to conquer it.
 
-Check [[Hindrances to mastery]]
+Check [[hindrances to mastery]]
