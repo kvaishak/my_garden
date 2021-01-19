@@ -15,3 +15,6 @@ _includes/notes_graph.json
 .obsidian/
 
 template/
+
+.trash/
+.DS_Store
