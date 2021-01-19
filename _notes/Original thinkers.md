@@ -11,7 +11,7 @@ What happens is when told about a task, and then the person procrastinating (del
 
 Tasks are still active in our mind, when we procrastinate and goes on in our life with other activities. This helps in formulating a better way to do that task.
 
-> You call it procrastinating, I call i thinking
+> You call it procrastinating, I call it thinking
 
 Hence procrastinating helps nurture creativity.
 

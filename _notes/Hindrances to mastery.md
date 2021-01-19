@@ -31,7 +31,7 @@ When faced with too much doubts more often you will stop, rather than moving for
 
 ###  What to do ?
 Let it RAIN 
-<br />
+
 **R** - Recognize what state of mind you are currently in. <br />
 **A** - Accept the situation that you are in. Let it be in that state. <br />
 **I** - Investigate and ask questions about your current stage . Why you are in that stage ? <br />
