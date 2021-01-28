@@ -2,7 +2,7 @@
 title: Gratitude
 ---
 
-More often we are displeased with how our life is right now, we try to find the [[the purpose]] in life. Though it's a difficult process to search for, understand and even conceptualise a meaning for life, often times being grateful for what we have at present makes us realise the beauty of life as it is.
+More often we are displeased with how our life is right now, we try to find the [[The purpose]] in life. Though it's a difficult process to search for, understand and even conceptualise a meaning for life, often times being grateful for what we have at present makes us realise the beauty of life as it is.
 
 It can surprisingly work for a variety of areas and situations, for example -
 Imagine having a mediocre sandwich or even a handful of nuts out of a bag, and it kind of sucks. Imaging that you have just traveled around all day collecting the nuts or the ingredients needed for the sandwich and then you are eating them one by one and savour the nourishment.

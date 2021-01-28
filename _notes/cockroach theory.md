@@ -3,7 +3,7 @@ title: Cockroach Theory
 ---
 
 
-Well, the internet attributes this story to Sundar Pichai, CEO of Google. Unsure about the source, the story is still good enough to belong to my [[theories]].
+Well, the internet attributes this story to Sundar Pichai, CEO of Google. Unsure about the source, the story is still good enough to belong to my [[Theories]].
 
 At a restaurant, a cockroach suddenly flew from somewhere and sat on a lady. She started screaming out of fear. The lady finally managed to push the cockroach away. It landed on another lady in the group. Now, it was the turn of the other lady in the group to continue the drama.
 

@@ -10,7 +10,7 @@ But most of our time we find ourselves caught up in the routine monotonous life 
 
 Overtime a routine lifestyle can either makes us bored or blind to the passage of time.
 
-According to Viktor E Frankl (the author of [[Man's Search for meaning]]) boredom is one of the main contributors to [[Existential Frustration]].
+According to Viktor E Frankl (the author of [[Man's Search for meaning]]) boredom is one of the main contributors to [[Existential Vacuum]].
 
 So when you feel that you are being engulfed by **The Routine**, try to change things up. New experienced snap you out of that routine and have you aware of your surroundings. This results in a metaphorical slowing down of time so that our brain can process all this new information.
 

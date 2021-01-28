@@ -14,4 +14,4 @@ You are with a group of friends, colleagues and no one has any ideas for lunch, 
 
 Creative sparks fly. Nothing rallies the group better than this initial suggestion.
 
-Belongs to my list of [[theories]]
+Belongs to my list of [[Theories]]
