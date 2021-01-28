@@ -27,15 +27,16 @@ This is due to the indecisiveness of your brain. The constant doubt in your brai
 
 When faced with too much doubts more often you will stop, rather than moving forward.
 
-<br />
-
 ###  What to do ?
 Let it RAIN 
 
-**R** - Recognize what state of mind you are currently in. <br />
-**A** - Accept the situation that you are in. Let it be in that state. <br />
-**I** - Investigate and ask questions about your current stage . Why you are in that stage ? <br />
-**N** - Non-Identify know that you are not your body, mind or your emotions and act on what to be done to make yourself come out of that stage. <br />
+**R** - Recognize what state of mind you are currently in.
+
+**A** - Accept the situation that you are in. Let it be in that state.
+
+**I** - Investigate and ask questions about your current stage . Why you are in that stage ?
+
+**N** - Non-Identify know that you are not your body, mind or your emotions and act on what to be done to make yourself come out of that stage.
 
 
 
