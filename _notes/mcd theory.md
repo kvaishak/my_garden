@@ -10,7 +10,7 @@ Not everyone puts themselves out there in a group setting with a rough idea. It'
 
 We can use this very human construct to break ice and start conversations.
 
-You are with a group of friends, colleagues and no one has any ideas for lunch, suggest McDonal's.
+You are with a group of friends, colleagues and no one has any ideas for lunch, suggest McDonald's.
 
 Creative sparks fly. Nothing rallies the group better than this initial suggestion.
 
