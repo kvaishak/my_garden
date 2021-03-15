@@ -33,3 +33,6 @@ When there is something wrong in the functioning of our organs, for example our 
 Similarly when we feel discomfort in the form of depression, its the brains way of saying that there is something wrong with our mental health and we must address it soon by having a visit to the psychiatrist. According to brain these two sensations are pretty much identical and is being triggered to attain the same result: making us aware that something is not right.
 
 When thinking about the relationship between mind and body, its tempting to indulge in the myth that the mind is solely in the brain and body is separate. Under the hood, however, our brain creates our mind while it regulates the system of our body. That means the regulation of our body is itself part of our mind.
+
+---
+Reference: [That is not how your brain works](https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works)
