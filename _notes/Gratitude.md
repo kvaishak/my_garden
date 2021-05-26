@@ -13,5 +13,3 @@ If you are tossing and turning in bed, unable to sleep, vividly remember the exp
 Or imagine it's the morning and your alarm just went off.
 
 Imagine the experience of having a sore throat when you don’t have one and enjoy the glorious lack of pain. When you are in a hot shower, imagine those times when a showers water devastatingly maxes out at lukewarm. In a lukewarm shower, imagine how thrilled a 1750 person would be.
-
-I am thrilled what about you ?
