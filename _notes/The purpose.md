@@ -10,7 +10,7 @@ More often we feel that we are stuck in daily monotonous jobs that we don’t li
 
 is something which we say to ourselves, while disregarding the present as something that is hateful and something that needs to be avoided.
 
-We often fail to understand that its not the goal that matters in life, its the journey that we take to it that matters. We make ourselves miserable, fretting over the past or not being able to live the life that you wanted to. Trying to find solace in the fact that once you attain or reach that position your life will miraculously change. All this misery and the need to find purpose in life makes us blind to experiencing what it feels to be alive,to what it feels to give and receive warmth and compassion from those who loves us. 
+We often fail to understand that its not the goal that matters in life, its the journey that we take to it that matters. We make ourselves miserable, fretting over the past or not being able to live the life that you wanted to. Trying to find solace in the fact that once you attain or reach that position your life will miraculously change. All this misery and the need to find purpose in life makes us blind to experiencing what it feels to be alive, to what it feels to give and receive warmth and compassion from those who loves us. 
 
 Everyone might have their own idea of success and a goal or stage in life to achieve. It’s okay to pursue them. But getting obsessed by it and  postponing your happiness until you have reached that very stage will only lead to misery and unhappiness. 
 

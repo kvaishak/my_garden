@@ -13,7 +13,7 @@ There might be situations that you don't like, persons whom you might despise et
 Don't be discouraged by those. Let go of the hatred or the ill will and continue on your journey.
 
 ## Dullness/heaviness
-Characterized by sleepiness, lack of motivation, lack of energy, leading to depression.
+Characterised by sleepiness, lack of motivation, lack of energy, leading to depression.
 Described in Buddhism as Imprisonment, one must have to find a way to come out of it in order to continue towards your goal. Nobody is free from experiencing all these. But what you have to do is realize this and try to find a way to come out of it.
 
 ## Restlessness
@@ -30,7 +30,7 @@ When faced with too much doubts more often you will stop, rather than moving for
 ###  What to do ?
 Let it RAIN 
 
-**R** - Recognize what state of mind you are currently in.
+**R** - Recognise what state of mind you are currently in.
 
 **A** - Accept the situation that you are in. Let it be in that state.
 

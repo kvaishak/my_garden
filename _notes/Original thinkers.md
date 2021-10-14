@@ -5,7 +5,7 @@ title: What separates us from Originals
  From [The surprising habits of original thinkers by Adam Grant](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 
 ## They are late to the party
-Procrastinators are found to have a much more creative process than those who precrastinates or those who wait till the end of the deadline.
+Procrastinators are found to have a much more creative process than those who procrastinates or those who wait till the end of the deadline.
 
 What happens is when told about a task, and then the person procrastinating (delaying acting on that task moderately) gives the mind some time to actively think about that task without acting on it.
 

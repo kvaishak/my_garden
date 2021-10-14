@@ -10,7 +10,8 @@ The whole principle came down from the idea that if you could break down everyth
 
 ---
 
-At 2003, when Dave Brailsford, was hired as the new performance director for the British cycling team, at that time professional cyclists in Great Britain had endured nearly one hundred years of mediocirity. Since 1908, British riders had won just single gold medal at the Olympic Games, and they had fared even worse in cyclings biggest race, the Tour de France. In 110 years, no British cyclist had ever won the event.
+At 2003, when Dave Brailsford, was hired as the new performance director for the British cycling team, at that time professional cyclists in Great Britain had endured nearly one hundred years of       
+mediocrity. Since 1908, British riders had won just single gold medal at the Olympic Games, and they had fared even worse in cyclings biggest race, the Tour de France. In 110 years, no British cyclist had ever won the event.
 
 After the arrival of Brailsford, he implemented the philosophy of “Aggregation of Marginal Gains”, by making small adjustments you might expect from a professional cycling team. He did that on a continuous basis, and as a result all these hundreds of small improvements accumulated and the results came faster than anyone could have imagined.
 

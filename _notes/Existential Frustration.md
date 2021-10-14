@@ -10,4 +10,4 @@ Existential frustration, unlike how the name implies is not portrayed in a negat
 
 > A man's concern, even his despair over the worthwhileness of life is an existential distress, but by no means a mental disease.
 
-In-fact it is this frustration that helps us search for and realize the meaning of one's life. There is nothing in the world, that would so effectively help one to survive even the worst conditions as the knowledge that there is a meaning in ones life.
+In-fact it is this frustration that helps us search for and realise the meaning of one's life. There is nothing in the world, that would so effectively help one to survive even the worst conditions as the knowledge that there is a meaning in ones life.
