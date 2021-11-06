@@ -6,7 +6,7 @@ We as humans have been known to be the sole reasons for lots of genetic anomalie
 
 Its not always this case when it comes to Human Intervention, as we know from the alarming changes to the climate and the global temperature. Relentless hunting of the elephants for their Tusk or (ivory) over the decades have caused them to evolve in a way we have never imagined them to. More and more female Elephants are now being born in the wild without tusks.
 
-> In other words, human actions are ::literally changing the anatomy:: of wild animals.
+> In other words, human actions are literally **changing the anatomy** of wild animals.
 
 Its often to difficult to underestimate how grave of a problem it is from their perspective. The tusks are their major tool for a lots of their activities from, gathering food to defending themselves and also as a protection of their trunk, which is another valuable tool for breathing, drinking and eating.
 
