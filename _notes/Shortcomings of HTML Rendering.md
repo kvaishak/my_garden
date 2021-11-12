@@ -17,3 +17,7 @@ These properties can be used to modify various properties of SVG element like co
 
 <img src="/assets/stroke_types.png" />
 
+<figure>
+    <img src="/assets/stroke_types.png"  alt="Different s">
+    <figcaption>Chesney the Kitten attempts a giant leap<figcaption>
+<figure>    
