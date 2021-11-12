@@ -25,8 +25,6 @@ Many experts in their field spend time not just by studying or practising their 
 
 By practising we make ourself exposed to the works of others thereby making us knowledgable about their vocabulary. The main goal is not to copy their work, but to expose ourself to the nuance of their work, so that we can take what we want from them and use it in our own style.
 
-<br />
-
 Our minds are fickle beings. Even after knowing what to do and follow, there comes a time when we are faced with hindrances directly posed by our mind. One must understand them to know how to overcome these hindrances.
 
 Check [[hindrances to mastery]]
