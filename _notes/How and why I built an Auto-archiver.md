@@ -1,5 +1,5 @@
 ---
-title: Archiver
+title: How and why I built an Auto-archiver
 ---
 
 Recently I had come across a wonderful application called ["WakaTime"](https://wakatime.com/). It is an automatic time tracking tool catering specifically for developers. Among the plethora of time tracking applications, what makes "WakaTime" unique is that it is entirely focused towards tracking and categorising the time spend on various coding languages and projects. WakaTime does this by having integrations with almost every IDEs and code editors. I was not able to find anything like WakaTime on the market and had soon grown fond of it.
