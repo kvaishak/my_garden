@@ -20,6 +20,8 @@ But there comes a time during the evolution of the product when it becomes hard 
 
 Without repaying this **debt** it becomes impossible for people to work effectively in what might feel like a collection of rush code, outdated core requirements that didn’t catch up with the evolving product and shortcuts and quick fixes done by people who no longer work there.
 
+<img src="/assets/td-2.gif" />
+
 So rather than waiting for the bubble to burst, a good practice would be to occasionally take a step back from the usual feature/development cycle and look back on the ways through which the product has evolved over time and try to make sure that the code at that point of time best reflects your current understanding of what problem your product is trying to solve. Repaying this **debt** in such a short continuous manner can help us prevent the sporadic occurrence of “debt bubble” which can lead to stagnation and subsequent decline in product development for a long period of time.
 
 ---
