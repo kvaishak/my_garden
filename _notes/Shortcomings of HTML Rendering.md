@@ -15,11 +15,14 @@ In HTML, an SVG element, be it a path, rectangle or a circle can have SVG stroke
 
 These properties can be used to modify various properties of SVG element like colour, stroke width, type of ending to an open path and they type of stroke respectively. But there is no property by which we can specify if a stroke should be aligned to the centre, inside or to the outside of a closed path.
 
-<img src="/assets/stroke_types.png" />
+# Solution
+
+The easiest way to achieve the required inner/outer stroke effect in SVG would be using the clip-path.
+
+** 
 
 <figure>
     <img src="/assets/stroke_types.png"  alt="Different stroke representation">
     <figcaption>Illustration showing the default(Center) stroke with the representation of inner/outer stroke for the shape with the same dimensions.<figcaption>
 <figure>    
-	
-	
+		
