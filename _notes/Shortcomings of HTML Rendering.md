@@ -37,6 +37,12 @@ Outer stroke using clip-path is a bit tricky because of the nature of the clippi
 
 Using the above method the clip-path with clip the space inside the shape thereby hiding the inner portion of the stroke. Refer <a href="https://codepen.io/wireshark47/pen/QWwyvzq">here</a> for an example.
 
+# The shortcoming of using clip-path
+Even though using clip-path is one of the easiest and fastest ways to render a clean model of inner/outer stroke. It has its own disadvantages. Some of them are.
+
+1. As shown in the example of outer stroke, It is possible only in case of SVG paths - For present shapes, one might have to convert them to SVG paths and then find out the appropriate clip-path.
+2. Also, outer stroke rendering requires finding out a proper bounding rect from the original shape, which might require additional calculation.
+
 
 <figure>
     <img src="/assets/stroke_types.png"  alt="Different stroke representation">
