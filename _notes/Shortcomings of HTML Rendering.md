@@ -31,6 +31,11 @@ An example can be found <a href="https://codepen.io/wireshark47/pen/YzPwVrm">her
 
 Outer stroke using clip-path is a bit tricky because of the nature of the clipping in SVG.
 
+1. As in the case of inner stroke, give the original shape a stroke width, which is double your required amount.
+2. Create a new SVG path, which contains the original shape path + a path of a bounding rectangle whose dimensions calculated such that the new shape including the doubled stroke should fall within the rectangle.
+3. Use the above-created path as clip-path with the <code>clip-rule = “evenodd” </code>.
+
+Using the above method the clip-path with clip the space inside the shape thereby hiding the inner portion of the stroke. Refer <a href="https://codepen.io/wireshark47/pen/QWwyvzq">here</a> for an example.
 
 
 <figure>
