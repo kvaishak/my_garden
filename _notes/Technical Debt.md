@@ -23,3 +23,11 @@ So rather than waiting for the bubble to burst, a good practice would be to occa
 ---
 
 #### Case study
+
+- Evernote was considered as the Go-to application for note-taking, was un-rivalled, due to its early inception in this domain and to its wide list of features.
+
+- Due to bad management and resulting changes to the development of the product resulted in Feature creep in their suite of application.
+
+- As a result, they were not able to release any new features for a long period of time without a major restructuring in their core application code.
+
+- The long waiting time for the development of new features, and the competition picking up pace with new and exciting features which the users demanded resulted in Evernote losing a major chunk of their customer base to the aforementioned competitors.
