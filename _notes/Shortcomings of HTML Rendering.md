@@ -20,6 +20,7 @@ These properties can be used to modify various properties of SVG element like co
     <figcaption>Illustration showing the default(Center) stroke with the representation of inner/outer stroke for the shape with the same dimensions.<figcaption>
 <figure>
 
+
 # Solution
 
 The easiest way to achieve the required inner/outer stroke effect in SVG would be using the clip-path.
