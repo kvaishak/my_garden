@@ -19,7 +19,19 @@ These properties can be used to modify various properties of SVG element like co
 
 The easiest way to achieve the required inner/outer stroke effect in SVG would be using the clip-path.
 
-** 
+**Inner Stroke** 
+Creation of inner stroke for an SVG path is easy and involves two simple steps.
+
+1. For getting an inner stroke of 10px, give the original shape a stroke of 20px(Double the required amount).
+2. Use the path of the source SVG, as clip without any stroke and apply it to the original SVG path.
+
+An example can be found <a href="https://codepen.io/wireshark47/pen/YzPwVrm">here</a>. Using this method we can get a clear inner stroke for any SVG path.
+
+**Outer Stroke**
+
+Outer stroke using clip-path is a bit tricky because of the nature of the clipping in SVG.
+
+
 
 <figure>
     <img src="/assets/stroke_types.png"  alt="Different stroke representation">
