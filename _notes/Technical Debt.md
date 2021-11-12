@@ -8,6 +8,8 @@ What he meant by the term debt was that - when we borrow money from someone we a
 
 Similarly, rushing software out the door seems like a good idea, but eventually, you would have to go back and repay that loan by refactoring the program to reflect your knowledge of the program as you acquire it.
 
+<img src="/assets/td-1.gif" />
+
 > “If you develop a program for a long period of time by only adding features but never reorganising it to reflect your understanding of those features, then eventually that program simply does not contain any understanding and all efforts to work on it take longer and longer.”— **Ward Cunningham**
 
 This does not mean that **accumulating debt** by writing code to reflect your current understanding of your problem, even if that understanding is partial is a bad idea. Nor does it imply the idea of doing code poorly with the intention of doing a good job later.
