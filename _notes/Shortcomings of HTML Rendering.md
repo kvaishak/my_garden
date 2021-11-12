@@ -15,6 +15,11 @@ In HTML, an SVG element, be it a path, rectangle or a circle can have SVG stroke
 
 These properties can be used to modify various properties of SVG element like colour, stroke width, type of ending to an open path and they type of stroke respectively. But there is no property by which we can specify if a stroke should be aligned to the centre, inside or to the outside of a closed path.
 
+<figure>
+    <img src="/assets/stroke_types.png"  alt="Different stroke representation">
+    <figcaption>Illustration showing the default(Center) stroke with the representation of inner/outer stroke for the shape with the same dimensions.<figcaption>
+<figure>
+
 # Solution
 
 The easiest way to achieve the required inner/outer stroke effect in SVG would be using the clip-path.
@@ -42,10 +47,9 @@ Even though using clip-path is one of the easiest and fastest ways to render a c
 
 1. As shown in the example of outer stroke, It is possible only in case of SVG paths - For present shapes, one might have to convert them to SVG paths and then find out the appropriate clip-path.
 2. Also, outer stroke rendering requires finding out a proper bounding rect from the original shape, which might require additional calculation.
+3. In the case of open shapes, it's again difficult to determine the orientation of the stroke.
+4. Shapes with intersecting paths might require additional steps of breaking down of the single complex shape into multiple shapes and performing the clipping action to each of the shapes.
 
-
-<figure>
-    <img src="/assets/stroke_types.png"  alt="Different stroke representation">
-    <figcaption>Illustration showing the default(Center) stroke with the representation of inner/outer stroke for the shape with the same dimensions.<figcaption>
-<figure>    
+# Conclusion
+Using SVG clip-path one can render a clean inner/outer stroke thereby circumventing the lack of a much-needed requirement of a stroke-align properly in HTML.
 		
