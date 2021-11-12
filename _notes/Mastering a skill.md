@@ -25,7 +25,7 @@ You can’t be proficient in something whose fundamentals you are not aware of. 
 
 Many experts in their field spend time not just by studying or practising their skill, but also observing the works of others. No amount of self-learning and practising will account for the experience gained by someone who has already been an expert in the field. Watching, observing and in the best case being mentored by such an individual will help us in knowing about their thinking process in how they do their job.
 
-4. **Practice the works of others** <br />
+4. **Practice the works of others** 
 
 By practising we make ourself exposed to the works of others thereby making us knowledgable about their vocabulary. The main goal is not to copy their work, but to expose ourself to the nuance of their work, so that we can take what we want from them and use it in our own style.
 
