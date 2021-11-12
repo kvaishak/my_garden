@@ -31,7 +31,6 @@ By practising we make ourself exposed to the works of others thereby making us k
 
 <br />
 
-During the pursuit of mastering any skill, mind plays a crucial role.
-One must understand the hindrance posed by the mind in order to conquer it.
+Our minds are fickle beings. Even after knowing what to do and follow, there comes a time when we are faced with hindrances directly posed by our mind. One must understand them to know how to overcome these hindrances.
 
 Check [[hindrances to mastery]]
