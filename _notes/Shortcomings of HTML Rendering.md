@@ -14,3 +14,5 @@ In HTML, an SVG element, be it a path, rectangle or a circle can have SVG stroke
 - stroke-dasharray
 
 These properties can be used to modify various properties of SVG element like colour, stroke width, type of ending to an open path and they type of stroke respectively. But there is no property by which we can specify if a stroke should be aligned to the centre, inside or to the outside of a closed path.
+
+![[stroke_types.png]]
