@@ -6,7 +6,7 @@ Recently I had come across a wonderful application called ["WakaTime"](https://w
 
 ## Why ?
 
-<img src="/assets/memehd.jpg" />
+
 
 Even though WakaTime is perfect for tracking ones coding metrics, I had to purchase their premium plan for saving my dashboard data for more than 2 weeks. Fortunately, I came across a Github project which updates a Github Gist with the last 7 days coding metrics automatically using Github actions.
 
@@ -14,7 +14,7 @@ This prompted me to build an archiver which will fetch my data from WakaTime aut
 
 ## How ?
 
-
+<img src="/assets/archiver.svg" />
 
 I have uploaded my code in [Github](https://github.com/kvaishak/archiver) and it works without the need of any other service just by utilising the Github Actions as follows.
 
