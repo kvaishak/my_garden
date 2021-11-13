@@ -14,7 +14,7 @@ This prompted me to build an archiver which will fetch my data from WakaTime aut
 
 ## How ?
 
-<img src="/assets/archiver.svg" />
+
 
 I have uploaded my code in [Github](https://github.com/kvaishak/archiver) and it works without the need of any other service just by utilising the Github Actions as follows.
 
