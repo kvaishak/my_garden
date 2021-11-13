@@ -26,8 +26,3 @@ I have uploaded my code in [Github](https://github.com/kvaishak/archiver) and it
 
 In this manner, Weekly data of my coding metrics will be automatically uploaded to my Google drive, every week. Which I can aggregate and used for long term analytics and visualizations.
 
-## Enhancements
-
-Once I was done with WakaTime Automation, I added a similar archiving process for RescueTime, which is another Automatic Time tracking software, which tracks everything when compared to WakaTime. Since I don't have to archive Rescuetime data every week, I make it run on the first week of every new month and archives the entire previous months data.
-
-Since the code is written in a modular fashion, I can add/remove any compactable Third-party service for fetching and saving my data to google drive.
