@@ -12,6 +12,8 @@ This prompted me to build an archiver which will fetch my data from WakaTime aut
 
 ## How ?
 
+<img src="/assets/memehd.jpg">
+
 I have uploaded my code in [Github](https://github.com/kvaishak/archiver) and it works without the need of any other service just by utilising the Github Actions as follows.
 
 1. Once the node server starts it fetches my data from WakaTime in two ways -
