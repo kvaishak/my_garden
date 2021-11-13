@@ -17,8 +17,8 @@ This prompted me to build an archiver which will fetch my data from WakaTime aut
 I have uploaded my code in [Github](https://github.com/kvaishak/archiver) and it works without the need of any other service just by utilising the Github Actions as follows.
 
 1. Once the node server starts it fetches my data from WakaTime in two ways -
-   a.  A simple API call that Wakatime provides in the format of 'https://wakatime.com/api/v1/users/{username}/stats/last_7_days' by replacing 'username' you can get your last 7 days. Documentations [here](https://wakatime.com/developers#stats).
-**   b. **You can get an embedded link to access your data from the WakaTime website.
+    A simple API call that Wakatime provides in the format of 'https://wakatime.com/api/v1/users/{username}/stats/last_7_days' by replacing 'username' you can get your last 7 days. Documentations [here](https://wakatime.com/developers#stats).
+   - You can get an embedded link to access your data from the WakaTime website.
 2. These two API calls will fetch the latest data in JSON format whenever they are called.
 3. Once the data is received, we can convert the data to a CSV format.
 4. After authenticating with Google Drive API, we can upload the CSV data to Google Drive in google sheet format.
