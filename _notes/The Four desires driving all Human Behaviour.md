@@ -8,11 +8,13 @@ Bertrand Russell’s Magnificent Noble Prize Acceptance speech.
 
 Russell begins by considering the central motive driving human behaviour:
 
+
 > All human activity is prompted by desire.
 
 He acknowledges the existence of a mistaken theory followed by some committed moralist which showcases that is is possible to resist desire in the interest of duty and moral principe. He adds that the above theory is incorrect, not because no man ever acts from a sense of duty, but because duty has no hold on him unless he desires to be dutiful. If you wish to know what men will do, you must know not only about their material circumstances, but rather the whole system of their desire with their relative strength.
 
 Desire is what differentiates Man from other animals, which are, so to speak, infinite and can never be fully satisfied and which would keep him restless even in Paradise. The boa constrictor, when he has had an adequate meal, goes to sleep, and does not wake until he needs another meal. Human beings, for the most part are not like this.
+
 
 Russell points to four such infinite desires:
 
@@ -24,9 +26,11 @@ He explains how he had befriended two little girls from Estonia, who had narrowl
 
 > However much you may acquire, you will always wish to acquire more; satiety is a dream which will always elude you.
 
+
 ## Rivalry
 
-> The world would be a happier place than it is if acquisitiveness were always stronger than rivalry. But in fact, a great many men will cheerfully face impoverishment if they can thereby secure complete ruin for their rivals. Hence the present level of taxation.
+The world would be a happier place than it is if acquisitiveness were always stronger than rivalry. But in fact, a great many men will cheerfully face impoverishment if they can thereby secure complete ruin for their rivals. Hence the present level of taxation.
+
 
 ## Vanity
 
@@ -35,6 +39,7 @@ Rivalry, he argues, is in turn upstaged by human narcissism. Narcissism or vanit
 > “Look at me” is one of the most fundamental desires of the human heart.
 
 It can take innumerable forms, from buffoonery to the pursuit of posthumous fame.
+
 
 ## Power
 
