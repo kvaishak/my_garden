@@ -48,5 +48,4 @@ In any autocratic regime, the holders of power become increasingly tyrannical wi
 
 [Bertrand Russell Philosophy: On Human Desire](https://www.youtube.com/watch?v=7Ahgm7DvFc4)
 
-[The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech](https://www.themarginalian.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
 
