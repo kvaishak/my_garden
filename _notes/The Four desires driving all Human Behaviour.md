@@ -18,7 +18,7 @@ Desire is what differentiates Man from other animals, which are, so to speak, in
 
 Russell points to four such infinite desires:
 
-## 1. Acquisitiveness
+### Acquisitiveness
 
 > the wish to possess as much as possible of goods, or the title to goods -  a motive which has its origin in a combination of fear with desire for necessaries.
 
@@ -28,13 +28,13 @@ He explains how he had befriended two little girls from Estonia, who had narrowl
 
 
 
-## 2. Rivalry
+### Rivalry
 
 The world would be a happier place than it is if acquisitiveness were always stronger than rivalry. But in fact, a great many men will cheerfully face impoverishment if they can thereby secure complete ruin for their rivals. Hence the present level of taxation.
 
 
 
-## 3. Vanity
+### Vanity
 
 Rivalry, he argues, is in turn upstaged by human narcissism. Narcissism or vanity often described as extreme self-involvement to the degree that it makes a person ignore the needs of those around them is a motive of immense power. Anyone who has anything to do with children knows how they are constantly performing some antic, and saying “Look at me.”
 
@@ -44,7 +44,7 @@ It can take innumerable forms, from buffoonery to the pursuit of posthumous fame
 
 
 
-## 4. Power
+### Power
 
 The most potent of the four impulses, Russell argues is the love of power.
 
