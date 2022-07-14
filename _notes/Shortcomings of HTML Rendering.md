@@ -47,6 +47,7 @@ Even though using clip-path is one of the easiest and fastest ways to render a c
 2. Also, outer stroke rendering requires finding out a proper bounding rect from the original shape, which might require additional calculation.
 3. In the case of open shapes, it's again difficult to determine the orientation of the stroke.
 4. Shapes with intersecting paths might require additional steps of breaking down of the single complex shape into multiple shapes and performing the clipping action to each of the shapes.
+5. hello viniiiiii ;0
 
 ### Conclusion
 Using SVG clip-path one can render a clean inner/outer stroke thereby circumventing the lack of a much-needed requirement of a stroke-align properly in HTML.
